@@ -1,0 +1,12 @@
+1. Assignment 2.ipynb		   >	Solution
+2. Question 6 Reference Pictures   > 	Pictures related to possible errors in manuscript (for your reference)
+3. image.jpg			   > 	input image used in Question 5
+4. NoisyTestData.txt		   > 	Noisy Test Data used in Question 2
+5. NoisyTestData2.txt		   >	Noisy Test Data used in Question 4
+6. NoisyTrainData.txt		   >	Noisy Train Data used in Question 4
+7. output.jpg			   >	output edge image from Question 5
+8. TestData.txt			   >	Clean Test Data used in Question 4
+
+Team:
+1. Nirav Jadeja - B00789139
+2. Supriya Patel - B00791627
